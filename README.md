@@ -1,4 +1,4 @@
-# iridiumhqmcp-com
+# Iridium
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-iridiumhqmcp-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://iridiumhqmcp.com/
+Iridium provides a LinkedIn MCP server for Claude and AI agents, enabling live LinkedIn data access, commenting, outreach, and direct messages. Every action is logged and no unapproved messages are sent. The service connects agents to LinkedIn, offering discovery of people, handling messages and comments, with a focus on privacy and compliance.
+
+**Areas:** AI · LinkedIn · MCP · Agents · Integration
+
+## Iridium on APIs.io
+
+Everything profiled for Iridium is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/iridiumhqmcp-com/](https://apis.io/providers/iridiumhqmcp-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (22)
+
+- [Iridium Activity API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-activity-api/) — The activity API from Iridium — 2 operation(s) for activity.
+- [Iridium Admin API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-admin-api/) — The admin API from Iridium — 9 operation(s) for admin.
+- [Iridium Auth API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-auth-api/) — The auth API from Iridium — 6 operation(s) for auth.
+- [Iridium Billing API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-billing-api/) — The billing API from Iridium — 4 operation(s) for billing.
+- [Iridium Chat API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-chat-api/) — The chat API from Iridium — 2 operation(s) for chat.
+- [Iridium Chats API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-chats-api/) — The chats API from Iridium — 14 operation(s) for chats.
+- [Iridium Content Drafts API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-content-drafts-api/) — The content_drafts API from Iridium — 5 operation(s) for content_drafts.
+- [Iridium Discovery API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-discovery-api/) — The discovery API from Iridium — 1 operation(s) for discovery.
+- [Iridium Drafts API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-drafts-api/) — The drafts API from Iridium — 5 operation(s) for drafts.
+- [Iridium Email API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-email-api/) — The email API from Iridium — 1 operation(s) for email.
+- [Iridium Health API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-health-api/) — The Health API from Iridium — 1 operation(s) for health.
+- [Iridium Iridium LinkedIn For AI Agents API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-iridium-linkedin-for-ai-agents-api/) — The Iridium LinkedIn For AI Agents API from Iridium — 1 operation(s) for iridium linkedin for ai agents.
+- [Iridium MCP API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-mcp-api/) — The mcp API from Iridium — 64 operation(s) for mcp.
+- [Iridium OAuth API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-oauth-api/) — The oauth API from Iridium — 8 operation(s) for oauth.
+- [Iridium Pipelines API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-pipelines-api/) — The pipelines API from Iridium — 7 operation(s) for pipelines.
+- [Iridium Post Drafts API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-post-drafts-api/) — The post_drafts API from Iridium — 8 operation(s) for post_drafts.
+- [Iridium Replies API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-replies-api/) — The replies API from Iridium — 2 operation(s) for replies.
+- [Iridium Scheduled API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-scheduled-api/) — The scheduled API from Iridium — 2 operation(s) for scheduled.
+- [Iridium Users API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-users-api/) — The users API from Iridium — 11 operation(s) for users.
+- [Iridium Version API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-version-api/) — The Version API from Iridium — 1 operation(s) for version.
+- [Iridium Webhooks API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-webhooks-api/) — The webhooks API from Iridium — 4 operation(s) for webhooks.
+- [Iridium .well Known API](https://apis.io/apis/iridiumhqmcp-com/iridiumhqmcp-com-well-known-api/) — The .well Known API from Iridium — 2 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Iridium Agentic Access](https://apis.io/agentic-access/iridiumhqmcp-com/iridiumhqmcp-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [FindPersonRequest](https://apis.io/schemas/iridiumhqmcp-com/iridiumhqmcp-com-find-person-request/)
+- [FindProspectsRequest](https://apis.io/schemas/iridiumhqmcp-com/iridiumhqmcp-com-find-prospects-request/)
+- [GetLinkedInProfileRequest](https://apis.io/schemas/iridiumhqmcp-com/iridiumhqmcp-com-get-linked-in-profile-request/)
+- [ReportIssueRequest](https://apis.io/schemas/iridiumhqmcp-com/iridiumhqmcp-com-report-issue-request/)
+- [SearchChatsRequest](https://apis.io/schemas/iridiumhqmcp-com/iridiumhqmcp-com-search-chats-request/)
+- [SettingsUpdate](https://apis.io/schemas/iridiumhqmcp-com/iridiumhqmcp-com-settings-update/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Iridiumhqmcp Com Context](https://apis.io/jsonld/iridiumhqmcp-com/iridiumhqmcp-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Iridium API Rules](https://apis.io/rules/iridiumhqmcp-com/iridiumhqmcp-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Iridium Authentication](https://apis.io/security/iridiumhqmcp-com/iridiumhqmcp-com-authentication/)
+- [Iridium Domain Security](https://apis.io/security/iridiumhqmcp-com/iridiumhqmcp-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://iridiumhqmcp.com/)
+- [API reference](https://iridiumhqmcp.com/llms.txt)
+- [Terms of service](https://iridiumhqmcp.com/terms)
+- [Privacy policy](https://iridiumhqmcp.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 40.0** — developing · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 53.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 21.1 |
+
+**Agent readiness 56.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/iridiumhqmcp-com/](https://apis.io/providers/iridiumhqmcp-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Iridium: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/iridiumhqmcp-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
